@@ -1,0 +1,5 @@
+export PATH="$HOME/.local/bin:$PATH"
+export PATH="$HOME/.local/bin:$PATH"
+export PATH="/Users/hara-ry/Downloads/gh_2.87.0_macOS_amd64/bin:$PATH"
+export PATH="/Users/hara-ry/Downloads/gh_2.87.0_macOS_amd64/bin:$PATH"
+export PATH="/Users/hara-ry/Downloads/gh_2.87.0_macOS_amd64/bin:$PATH"
